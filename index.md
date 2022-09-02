@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# maxkurbanov's First CS19300 HW
+# maxkurbanov's First CS19300 Homework
 ## Header 2
 ### Header 3
 
